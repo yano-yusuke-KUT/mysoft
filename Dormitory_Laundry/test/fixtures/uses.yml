@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  facility: 
+  situation: 
+  time: 1
+  userID: 
+
+two:
+  facility: 
+  situation: 
+  time: 1
+  userID: 

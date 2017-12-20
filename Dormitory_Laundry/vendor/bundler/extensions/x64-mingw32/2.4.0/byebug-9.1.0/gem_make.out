@@ -1,0 +1,20 @@
+current directory: C:/Users/yano yusuke/Documents/GitHub/mysoft/Dormitory_Laundry/vendor/bundler/gems/byebug-9.1.0/ext/byebug
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20171220-7368-c0z2id.rb extconf.rb
+creating Makefile
+
+current directory: C:/Users/yano yusuke/Documents/GitHub/mysoft/Dormitory_Laundry/vendor/bundler/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: C:/Users/yano yusuke/Documents/GitHub/mysoft/Dormitory_Laundry/vendor/bundler/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR="
+generating byebug-x64-mingw32.def
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: C:/Users/yano yusuke/Documents/GitHub/mysoft/Dormitory_Laundry/vendor/bundler/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20171220-7368-1nkyqbh/byebug
